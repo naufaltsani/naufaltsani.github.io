@@ -1,0 +1,15 @@
+{
+  "name": "naufalweb",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <a href=\"https://naufaltsani.github.io/\">     <img src=\"https://fiscalfinserve.com/wp-content/uploads/2023/09/businessman-character-avatar-isolated_24877-60111-1.jpg\" alt=\"Naufal\" width=\"80\" height=\"80\">   </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
