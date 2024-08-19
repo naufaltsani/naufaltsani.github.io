@@ -1908,9 +1908,8 @@ video {
      object-fit: scale-down;
 }
 
-.object-center {
-  -o-object-position: center;
-     object-position: center;
+.p-10 {
+  padding: 2.5rem;
 }
 
 .px-1 {
@@ -1992,11 +1991,6 @@ video {
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
-}
-
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
 }
 
 .font-bold {
